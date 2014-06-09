@@ -1,4 +1,4 @@
 twbs-sphinx-theme
 =================
 
-Twitter Bootstrap theme for sphinx
+Twitter Bootstrap "dirty-hack" theme for sphinx
